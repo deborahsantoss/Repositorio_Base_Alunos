@@ -1,0 +1,34 @@
+ # Declaraçao de funcao 
+def escreva():
+    print("Ola, Mundo!")
+
+ # Chamada de funcao
+escreva()
+    
+def escreva (msg):
+    print(msg)
+#Declaracao da funcao soma com dois argumentos
+def soma1(n1,n2):
+    print(n1 + n2)
+
+    escreva("Vai Palmeiras!")
+
+    
+# Declaracao de funcao 
+# com argumento e retorno
+def soma2(n1,n2):
+    return n1 + n2 
+
+print(soma1(6,2))
+soma1(3,3)
+
+# FAÇA UMA FUNÇAO QUE RECEBA 2 PARAMETROS E MUKTIPLIQUE ESSES DOIS VALORES.
+
+def multiplique (n1,n2):
+    return n1 * n2
+
+print(multiplique(7,2))
+
+
+         
+        
